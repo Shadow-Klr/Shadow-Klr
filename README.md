@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nightvxsion&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightvxsion&layout=compact&theme=tokyonight)
