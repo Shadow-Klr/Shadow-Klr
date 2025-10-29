@@ -1,5 +1,24 @@
-## Hi, I am Shadow 👋
-## I like to program and in my free time I do some projects that I share ther in github
+<div align="center">
+
+## Hi, I am Shadow 👋  
+## I like to program and in my free time I do some projects that I share here in GitHub  
+
+<br/>
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
 
 <!--
 **Shadow-Klr/Shadow-Klr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&theme=tokyonight)
