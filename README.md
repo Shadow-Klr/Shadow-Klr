@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I am Shadow 👋  \n I like to program and in my free time I do some projects that I share here in GitHub  
+## Hi, I am Shadow 👋 
 
 <br/>
 
