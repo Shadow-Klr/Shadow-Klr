@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I am Shadow 👋
+## I like to program and in my free time I do some projects that I share ther in github
 
 <!--
 **Shadow-Klr/Shadow-Klr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
