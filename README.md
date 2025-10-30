@@ -10,14 +10,12 @@
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&theme=tokyonight&title_color=#9b59b6&text_color=#c678dd&bg_color=1e1e2e&border_color=#8e44ad" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight&title_color=#9b59b6&icon_color=#8e44ad&text_color=#c678dd" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
 
