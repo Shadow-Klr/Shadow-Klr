@@ -4,11 +4,6 @@
 
 <br/>
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
-
-<br/><br/>
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&theme=tokyonight" alt="Top Languages" />
 
@@ -16,6 +11,11 @@
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
+
+<br/>
 
 </div>
 
