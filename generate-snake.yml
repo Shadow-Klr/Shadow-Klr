@@ -1,45 +1,31 @@
-name: 🐍 Generate Snake Animation
+name: Generate snake animation
 
 on:
-  # 🔁 Se ejecuta automáticamente todos los días a medianoche (UTC)
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
-  # 🧍‍♂️ Permite ejecutarlo manualmente desde la pestaña "Actions"
   workflow_dispatch:
 
-  # 💾 También se ejecuta cada vez que haces un push a la rama main
   push:
     branches:
-      - main
+    - main
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
     permissions:
-      contents: write   # Necesario para subir archivos a la rama output
+      contents: write
+    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      # 📥 Clona el repositorio para trabajar sobre él
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # 🐍 Genera la animación SVG de la serpiente
-      - name: Generate snake.svg
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          # ⚙️ Tu nombre de usuario de GitHub (exactamente como aparece en tu perfil)
-          github_user_name: Shadow-Klr
-          # 🎨 Paleta de colores: puedes probar github-dark o github-light
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      # 🔍 (Opcional) Muestra los archivos generados en el log
-      - name: List generated files
-        run: ls -R dist
 
-      # 🚀 Publica el SVG en la rama `output` para que GitHub Pages lo muestre
-      - name: Push snake.svg to the output branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
