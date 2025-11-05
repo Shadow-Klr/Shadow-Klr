@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shadow-Klr/Shadow-Klr/output/snake.svg" alt="Snake animation" />
 
 <br/>
 
