@@ -45,6 +45,6 @@
 
 ---
 
-🖤 _Thanks for visiting! Keep coding, keep learning and keep swiming in the pools os 42._
+🖤 _Thanks for visiting! Keep coding, keep learning and keep swiming in the pools of 42._
 
 </div>
