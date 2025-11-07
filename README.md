@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m **Shadow**
 
-### 🚀 Future Cadet @ 42 Madrid | Passionate about Code & Creativity
+### 🚀 Future Cadet @ 42 | Passionate about Code & Creativity
 
 💡 _"Learning never exhausts the mind."_ — Leonardo da Vinci  
 
@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 🌱 Currently diving deep into **C programming, algorithms & problem solving**  
-🎯 Preparing to join **42 Madrid** and level up my coding journey  
+🎯 Preparing to join **42** and level up my coding journey  
 ⚡ I love challenges, clean code, and learning by building cool stuff  
 
 ---
@@ -45,6 +45,6 @@
 
 ---
 
-🖤 _Thanks for visiting! Keep coding, keep learning._
+🖤 _Thanks for visiting! Keep coding, keep learning and keep swiming in the pools os 42._
 
 </div>
