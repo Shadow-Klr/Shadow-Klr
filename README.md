@@ -61,6 +61,13 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Shadow-Klr/Shadow-Klr/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📬 Connect with Me  
 # In progress ...
 <p align="center">
