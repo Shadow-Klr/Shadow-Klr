@@ -11,7 +11,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,csharp,js,html,css,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,html,css,php.mysql&theme=light" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,unity&theme=light" />
   </a>
 </p>
 
