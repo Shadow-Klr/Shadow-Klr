@@ -62,7 +62,26 @@
 ---
 
 ### 📬 Connect with Me  
+# In progress ...
+<p align="center">
+  <a href="https://github.com/Shadow-Klr">
+    <img src="https://komarev.com/ghpvc/?username=Shadow-Klr&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/Shadow-Klr">
+    <img src="https://img.shields.io/github/followers/Shadow-Klr?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
 
+---
+
+🖤 _Thanks for visiting! Keep coding, keep learning and keep swimming in the pools of 42._
+
+</div>
+
+
+<!--
+Deisngs That I like
+Thx so much Saboo24 I inspire my README.md in yours <3
 <p align="center">
   <a href="mailto:aminehamzaoui1926@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
@@ -80,18 +99,4 @@
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Shadow-Klr">
-    <img src="https://komarev.com/ghpvc/?username=Shadow-Klr&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Shadow-Klr">
-    <img src="https://img.shields.io/github/followers/Shadow-Klr?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
-
----
-
-🖤 _Thanks for visiting! Keep coding, keep learning and keep swimming in the pools of 42._
-
-</div>
+-->
