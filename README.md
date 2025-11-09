@@ -11,7 +11,7 @@
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,html,css,php.mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,bash,c,cs,js,html,css,php.mysql&theme=light" />
   </a>
 </p>
 
