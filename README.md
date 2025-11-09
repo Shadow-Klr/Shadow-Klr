@@ -50,6 +50,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Shadow-Klr&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em" />
 
 </p>
+
 ---
 
 ## ✍️ Random Dev Quote
