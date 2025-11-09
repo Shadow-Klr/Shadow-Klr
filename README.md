@@ -8,6 +8,24 @@
 
 ---
 
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
+</p>
+
+---
+
 ### 🧠 About Me
 🌱 Currently diving deep into **C programming, algorithms & problem solving**  
 🎯 Preparing to join **42** and level up my coding journey  
@@ -15,37 +33,39 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 📊 GitHub Statistics
 
-#### Languages & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 
 ---
 
-### 🐍 Contribution Snake
-<img src="https://github.com/Shadow-Klr/Shadow-Klr/blob/output/snake.svg" alt="Snake animation" />
+## 🏆 Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
 <a href="https://github.com/Shadow-Klr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- <a href="https://www.linkedin.com/in/your-linkedin-here/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 
 ---
 
-🖤 _Thanks for visiting! Keep coding, keep learning and keep swiming in the pools of 42._
+🖤 _Thanks for visiting! Keep coding, keep learning and keep swimming in the pools of 42._
 
 </div>
