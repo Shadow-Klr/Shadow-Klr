@@ -29,7 +29,7 @@
 ### 🧠 About Me
 🌱 Currently diving deep into **C programming, algorithms & problem solving**  
 🎯 Preparing to join **42** and level up my coding journey  
-⚡ I love challenges, clean code, and learning by building cool stuff  
+⚡ I love challenges and learning by my own or peer to peer
 
 ---
 
