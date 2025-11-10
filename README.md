@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Shadow&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Programer%20%|%20Problem%20Solver%20&descSize=27&descAlignY=85&section=header" />
 
-💡 *“Crafting logic and elegance in every line of code.”*
-
 ### 🚀 Future Cadet @ 42 | Passionate about Code & Creativity
-
-💡 _"Learning never exhausts the mind."_ — Leonardo da Vinci  
 
 ---
 
@@ -59,6 +55,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
+
+💡 _"Learning never exhausts the mind."_ — Leonardo da Vinci  
 
 ---
 
