@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I’m **Shadow**
+<img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px> I'm Shadow.
+
+💡 *“Crafting logic and elegance in every line of code.”*
 
 ### 🚀 Future Cadet @ 42 | Passionate about Code & Creativity
 
