@@ -46,7 +46,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Klr&layout=compact&langs_count=8&title_color=BF6CFF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shadow-Klr&limit=5&combine_all_yearly_contributions=true&title_color=BF6CFF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&hide_border=false" height="170em" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Shadow-Klr&limit=5&combine_all_yearly_contributions=true&title_color=BF6CFF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&hide_border=false&custom_title=Top%20Contributed%20Repos" height="170em" />
+
 
 </p>
 
