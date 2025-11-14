@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 Skills (Neon Purple Set)
+### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,bash,c,cs,js,html,css,php,mysql&theme=light&perline=10" />
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tools (Neon Purple Set)
+### 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,unity,linux,git,github&theme=light&perline=8" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Statistics (Neon Morado)
+### 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow-Klr&show_icons=true&title_color=BF6CFF&icon_color=7F00FF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&border_radius=10&hide_border=false" height="170em"/>
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 🧩 Most Used Languages & Top Repos (Neon Morado)
+### 🧩 Most Used Languages & Top Repos
 
 <p align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## ✍️ Random Dev Quote (Neon Morado)
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:7F00FF,100:000000&border_color=BF6CFF&text_color=FFFFFF" />
 </p>
@@ -61,7 +61,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Purple Neon)
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Shadow-Klr/Shadow-Klr/blob/output/snake.svg" alt="Snake animation" />
 </p>
