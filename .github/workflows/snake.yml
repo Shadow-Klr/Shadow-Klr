@@ -10,16 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v2
-        id: snake
-        with:
-          github_user_name: Shadow-Klr
-          outputs: |
-            dist/snake.svg
+  with:
+    github_user_name: Shadow-Klr
+    outputs: dist/snake.svg
+    snake_color: "#BA8DE3"       # color de la serpiente
+    apple_color: "#7F00FF"       # color del “comida”
+    stroke_color: "#FFFFFF"      # borde de la serpiente
+    background_color: "#000000"  # fondo
 
-          snake_color: "#BF6CFF"
-          apple_color: "#7F00FF"
-          stroke_color: "#FFFFFF"
-          background_color: "#000000"
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3.1.0

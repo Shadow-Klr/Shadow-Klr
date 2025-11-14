@@ -66,7 +66,6 @@
   <img src="https://raw.githubusercontent.com/Shadow-Klr/Shadow-Klr/output/snake.svg" alt="Snake animation" />
 </p>
 
-
 ---
 
 ### 📬 Connect with Me  
@@ -76,9 +75,7 @@
     <img src="https://komarev.com/ghpvc/?username=Shadow-Klr&color=7F00FF&label=Profile%20Views" />
   </a>
   <a href="https://github.com/Shadow-Klr">
-  <img src="https://img.shields.io/github/followers/Shadow-Klr?label=GitHub%20Followers&color=BF6CFF&style=flat" />
-  </a>
-
+    <img src="https://img.shields.io/github/followers/Shadow-Klr?label=GitHub%20Followers&color=7F00FF&style=flat" />
   </a>
 </p>
 
