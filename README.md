@@ -75,7 +75,9 @@
     <img src="https://komarev.com/ghpvc/?username=Shadow-Klr&color=7F00FF&label=Profile%20Views" />
   </a>
   <a href="https://github.com/Shadow-Klr">
-    <img src="https://img.shields.io/github/followers/Shadow-Klr?label=GitHub%20Followers&color=BF6CFF&style=flat" />
+  <img src="https://img.shields.io/github/followers/Shadow-Klr?label=GitHub%20Followers&color=BF6CFF&style=flat" />
+  </a>
+
   </a>
 </p>
 
