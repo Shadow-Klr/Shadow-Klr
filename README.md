@@ -28,7 +28,7 @@
 🧬 Passionate about **low-level programming & algorithms**  
 ⚙️ Into **systems, problem solving, reverse engineering**  
 🏫 Preparing for **42**  
-💾 Loves **terminal, dark themes, purple neon, logic & minimal code**
+💾 Loves **terminal, dark themes, logic & minimal code**
 
 ---
 
@@ -83,6 +83,6 @@
 
 ---
 
-🖤 _Thanks for visiting… Stay in the purple neon shadows._
+🖤 _Thanks for visiting… and go diving into 42 pools ;3._
 
 </div>
