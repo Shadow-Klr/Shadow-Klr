@@ -18,7 +18,7 @@
 ### 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,unity,linux,git,github&theme=light&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,unity,linux,git,github&theme=light&perline=8" />
   </a>
 </p>
 
