@@ -80,6 +80,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20and%20go%20diving%into%2042%20pools%20;3%20🖤&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20and%20go%20diving%into%2042%20pools%20;3%20🖤&fontSize=55&fontColor=F9F4FF&fontAlignY=45&animation=twinkling" />
 
 </div>
